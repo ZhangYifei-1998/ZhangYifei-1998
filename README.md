@@ -3,7 +3,7 @@
 - 🔭 I'm studying at Jilin University now
 - 🌱 I’m currently learning 做饭,好吃又好看的那种家常菜
 - 💬 Ask me about coding,cooking
-- 📫 How to reach me: [Linkedln/ZYF](linkedin.com/in/yifei-zhang1998/)
+- 📫 How to reach me: linkedin.com/in/yifei-zhang1998/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 最近计划学习大数据相关(现在还在艰难自学ing)
 
